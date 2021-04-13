@@ -21,7 +21,7 @@ public class Ex01_ArrayStudent {
 			System.out.println("----------------------------------------------");
 			System.out.print("선택>");
 			select = scan.nextInt();
-
+			
 			if (select == 1) {	//학생수를 설정
 				System.out.print("학생수> ");
 				num = scan.nextInt();
